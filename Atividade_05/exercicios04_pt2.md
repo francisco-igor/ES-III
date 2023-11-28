@@ -1,4 +1,4 @@
-## Exercícios 04 - Parte 1
+## Exercícios 04 - Parte 2
 
 <details>
 <summary> Questão 01 </summary>
